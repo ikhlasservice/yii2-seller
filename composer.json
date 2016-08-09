@@ -1,6 +1,6 @@
 {
     "name": "ikhlasservice/yii2-seller",
-    "description": "Yii 2 for base system",
+    "description": "Yii2 for seller management system.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "GPL-3.0",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Anda Soft",
-            "email": "kuakling@gmail.com",
+            "name": "Ikhlas Service",
+            "email": "ahamad.jedu@gmail.com",
             "role" : "Developer"
         }
     ],
