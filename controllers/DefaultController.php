@@ -20,7 +20,7 @@ use common\models\User;
 /**
  * DefaultController implements the CRUD actions for Seller model.
  */
-class DefaultController extends Controller {
+class DefaultController extends \anda\core\controllers\AuthenController {
 
     public function behaviors() {
         return [
