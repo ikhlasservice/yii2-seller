@@ -10,7 +10,7 @@ use yii\grid\GridView;
 $this->title = Yii::t('person', 'ตัวแทนจำหน่าย');
 $this->params['breadcrumbs'][] = $this->title;
 
-echo \ikhlas\seller\models\Seller::getLastId();
+//echo \ikhlas\seller\models\Seller::getLastId();
 ?>
 <div class='box box-info'>
     <div class='box-header'>
