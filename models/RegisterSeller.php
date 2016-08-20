@@ -3,14 +3,14 @@
 namespace ikhlas\seller\models;
 
 use Yii;
-use backend\modules\persons\models\Person;
+use ikhlas\persons\models\Person;
 use common\models\User;
 use yii\helpers\ArrayHelper;
-use backend\modules\persons\models\PersonDetail;
-use backend\modules\persons\models\Address;
-use backend\modules\persons\models\ContactAddress;
-use backend\modules\persons\models\PersonContact;
-use backend\modules\persons\models\PersonCareer;
+use ikhlas\persons\models\PersonDetail;
+use ikhlas\persons\models\Address;
+use ikhlas\persons\models\ContactAddress;
+use ikhlas\persons\models\PersonContact;
+use ikhlas\persons\models\PersonCareer;
 
 /**
  * This is the model class for table "register_seller".

@@ -3,7 +3,7 @@
 namespace ikhlas\seller\models;
 
 use Yii;
-use backend\modules\persons\models\Person;
+use ikhlas\persons\models\Person;
 use yii\helpers\ArrayHelper;
 use common\models\User;
 
